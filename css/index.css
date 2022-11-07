@@ -1,0 +1,386 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.container{
+    width: 1280px;
+    margin: 0 auto;
+   
+
+}
+.wrapper{
+    padding-bottom: 74px;
+}
+
+.pages{
+    display: flex;
+    font-size: 14px;
+    
+}
+.Getstart{
+    
+    background: rgba(8, 30, 52, 0.12);
+    border-radius: 100px;
+    display: block;
+    width: 102px;
+    text-align: center;
+
+}
+.pages p{
+    text-align: center;
+    align-items: center;
+    padding: 10px 20px;
+    font-family: 'Inter', sans-serif;
+}
+
+.emblem{
+    display: flex;
+    font-size: 18px;
+    text-align: center;
+    font-style: normal;
+}
+.btn{
+    background-color: #712fff;
+    color: #f1f1f1;
+    font-size: 14px;
+    border-radius: 100px;
+    display: block;
+    width: 144px;
+    padding: 16px 0px;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;
+
+}
+.logo{
+    height: 20px;
+    width: 20px;
+    margin: 18px 0px;
+}
+.Logoword{
+   padding: 0 10px;
+   font-family: 'Kanit', sans-serif;
+   font-weight: 500;
+
+}
+.intro{
+    display: flex;
+    padding-top: 150px;
+    justify-content: space-between;
+   
+}
+.introword{
+    font-size: 54px;
+    width: 495px;
+    font-weight: 700    ;
+    line-height: 64px;
+    font-family: 'Kanit', sans-serif;
+
+}
+.info{
+    font-size: 16px;
+    font-weight: 500;
+    width: 510px;
+    line-height: 22px;
+    margin-top: 32px;
+    margin-bottom: 48px;
+    font-family: 'Inter', sans-serif;
+   
+}
+.pic{
+    position: relative;
+    width: 687px;
+    height: 458px;
+    
+}
+.pic1{
+    border-radius: 30px;
+}
+.picdollar{
+    position:absolute;
+    left: 213px;
+    top: 0px;
+
+}
+.picfire{
+    position: absolute;
+    left: 447px;
+    top: 219px;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    height: 62px;
+    margin: 0  auto;
+    align-items: center ;
+    height: 38px;
+    
+}
+.title{
+  margin-right: 131px;
+}
+.header {
+    background-color: #f1f1f1;
+}
+.hitworks{
+    background-color: #e1dee7;
+    height: 562px;
+}
+.texttwo{
+    text-align: center;
+    padding-top: 103px;
+    
+}
+.lorem{
+    font-size: 12px;
+    margin: 0;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+}
+.texthow{
+    font-size: 54px;
+    margin: 0;
+    font-weight: 700;
+    font-family: 'Kanit', sans-serif;
+
+}
+.steps{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 86px;
+    
+}
+.img{
+    padding-bottom: 48px;
+}
+.step{
+    width: 400px;
+}
+.lorem1{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Inter', sans-serif;
+
+}
+.show{
+    font-size: 24px;
+    margin-top: 0px;
+    font-weight: bold;
+    font-family: 'Inter', sans-serif;
+}
+.findjob{
+    background-color: #f1f1f1;
+    padding: 0px auto;
+    margin: 0px auto;
+}
+.letsgetstart{
+    padding-top: 100px;
+    margin-bottom: 32px;
+    font-family: 'Kanit', sans-serif;
+    font-weight: 700;
+    font-size: 54px;
+    margin-top: 0px;
+
+
+}
+.lettext{
+    font-family:'Inter', sans-serif;
+    font-size:16px;
+    font-weight: 500;
+    margin-bottom: 32px;
+}
+.line{
+    display: flex;
+    background-color:#fff ;
+    width: 619px;
+    height: 50px;
+    border-radius: 12px;
+    margin-right: 32px;
+    
+}
+.picsear{
+    height: 24px;
+    width: 24px;
+    opacity: 0.2;
+    padding-left: 13px;
+    padding-top: 13px;
+    
+    
+}
+.searchfor{
+    font-family:'Inter', sans-serif;
+    font-weight: 500;
+    opacity: 0.2;
+    color:black;
+    padding-left: 12px;
+}
+.searching{
+    display: flex;
+}
+
+.btnfind{
+    background-color: #712FFF;
+    color: #f1f1f1;
+    font-size: 14px;
+    border-radius: 100px;
+    display: block;
+    width: 106px;
+    padding: 16px 0px;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;
+
+}
+.cv{
+    background-color: #f1f1f1;
+}
+.picman{
+    position: relative;
+    width: 700px;
+    height: 466.67px;
+}
+.pic2{
+    border-radius: 30px;
+
+}
+.picstar{
+    position:absolute;
+    left: 213px;
+    top: 28px;
+}
+.piclig{
+    position:absolute;
+    left: 22px;
+    top: 138px;
+
+}
+.pic2info{
+    padding-top: 141px;
+    display: flex;
+}
+.upload{
+    padding-left: 87px;
+}
+.uploadtext{
+    width: 391px;
+height: 56px;
+
+font-family: 'Kanit';
+font-style: normal;
+font-weight: 600;
+font-size: 54px;
+line-height: 56px;
+/* identical to box height, or 104% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin-bottom: 32px;
+}
+.uploadinfo{
+    width: 495px;
+height: 44px;
+
+/* Body M 16 pt/Medium */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 22px;
+margin-bottom: 32px;
+/* or 138% */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.btnupload{
+    background-color: #712fff;
+    color: #f1f1f1;
+    font-size: 14px;
+    border-radius: 100px;
+    display: flex;
+    width: 114px;
+    padding: 16px 0px;
+    align-items: center;
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;
+}
+.up{
+    padding-left:16px;
+    padding-right: 8px;
+}
+.footer{
+    background-color: #fff;
+}
+.social{
+    display: flex;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    padding-top: 42px;  
+    align-items: center;
+}
+.home{
+    padding-right:40px ;
+}
+.aboutus{
+    padding-right: 40px;
+}
+
+.howitw{
+    padding-right: 28px;
+}
+.tw{
+    width: 24px;
+    height: 24px;
+    padding-right: 16px;
+}
+.credits{
+    padding-left: 117px;
+    text-decoration: none;
+
+color: #081E34;
+
+opacity: 0.5;
+
+}
+.credits a{
+    color:#081E34 ;
+}
+.nf{
+  padding-top: 32px;
+  padding-bottom: 42px;
+/* Body S 14 pt/Medium */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 18px;
+text-align: end;
+
+color: #081E34;
+
+
+}
